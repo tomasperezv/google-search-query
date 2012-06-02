@@ -12,7 +12,7 @@
     include("jpgraph/jpgraph_line.php");
 
     if(count($argv) < 4 ) {
-            echo "Usage php googleTrends.php \"variable X\" MAX_X filename.png".PHP_EOL;
+            echo "Usage php example.php \"variable X\" MAX_X filename.png".PHP_EOL;
             die();
     }
 
