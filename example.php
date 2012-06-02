@@ -1,11 +1,11 @@
 <?php
 
-	/*
-	 * Example for generating graphs like: http://xkcd.com/715/
-	 * It requires the library jpgraph.
-	 *
-	 * @author tom@0x101.com
-	 */
+    /*
+     * Example for generating graphs like: http://xkcd.com/715/
+     * It requires the library jpgraph.
+     *
+     * @author tom@0x101.com
+     */
     include_once("googleTrends.php");
     include("jpgraph/jpgraph.php");
     include("jpgraph/jpgraph_bar.php");
